@@ -32,7 +32,7 @@ body{
     color: var(--red);
     font-size: 1.7rem;
     font-weight: 600;
-    margin-left: 250px;
+    margin-left: 50px;
 }
 .logo span{
     color: var(--dark);
@@ -76,7 +76,7 @@ body{
     background: var(--red);
 }
 .home{
-    margin-left: 200px;
+    margin-left: 100px;
     width: 100%;
     height: 100vh;
     display: flex;
