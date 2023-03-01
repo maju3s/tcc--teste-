@@ -32,7 +32,7 @@ body{
     color: var(--red);
     font-size: 1.7rem;
     font-weight: 600;
-    margin-left: 100px;
+    margin-left: 350px;
 }
 .logo span{
     color: var(--dark);
@@ -48,7 +48,7 @@ body{
     font-size: 17px;
     font-weight: 500;
     transition: all 0.5s;
-    
+    margin-left: 80px;
 }
 
 .navigation ul li a:hover{
