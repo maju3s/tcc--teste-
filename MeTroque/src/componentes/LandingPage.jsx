@@ -1,7 +1,7 @@
 import React from 'react'
 import "./LandingPage.css"
 import Titulo from './Titulo'
-import {BsArrowRightCircle} from 'react-icons/bs';
+
 
 
 function LandingPage(){
@@ -26,6 +26,8 @@ return (
                 <li class="nav-item"><a href="#">Home</a></li>
                 <li class="nav-item"><a href="#">About</a></li>
                 <li class="nav-item"><a href="#">Menu</a></li>
+                <a href="#" class="home-btn">Login 
+                {/*<BsArrowRightCircle/>*/}</a>
                 <i class='bx bx-search'></i>
             </ul>
             <div class="menu">
@@ -42,13 +44,11 @@ return (
                 <Titulo/>
                 </h4>
                 <h1 class="text-h1">Seu sistema de troca de alimentos</h1>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod error veniam in voluptatem magni quisquam</p>
-                <a href="#" class="home-btn">Login 
-                {/*<BsArrowRightCircle/>*/}
-                </a>
+                <p>Nutricionista formada pela Unisalesiano Lins, com experiência na área da saúde em mais de 15 anos, atuando como Enfermeira na Atenção Básica a Saúde e Mestranda no Universidade "Júlio de Mesquita Filho" Botucatu.</p>
+               
             </div>
             <div class="home-img">
-                <img src="https://www.myfitnesspal.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero-slice%402x.e3eec8a8.png&w=1920&q=75" alt="cereal-aleatório"/>
+                <img src="/juliana.png" alt="cereal-aleatório"/>
             </div>
 
   </section>
