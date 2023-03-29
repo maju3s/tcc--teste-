@@ -6,7 +6,7 @@
     font-size: 14px;
     text-align: center;
     width: 100%;
-    position: absolute;
+  
     bottom: 0;
 }
 
@@ -39,6 +39,10 @@
 #footer .credits a {
     color: #34b7a7;
 }
+
+}
+
+@media (max-width: 600px){
 
 }
 

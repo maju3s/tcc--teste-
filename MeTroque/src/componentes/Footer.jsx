@@ -9,11 +9,11 @@ function Footer() {
 
 <footer id="footer">
 
-    <div class="copyright">
+    <div className="copyright">
         &copy; Copyright <strong><span>Nutricionista Juliana Castro</span></strong>. Todos os direitos reservados.
     </div>
-    <div class="credits">
-        Desenvolvido com muito <i class='bx bxs-heart'></i> por Maju e Raphaela.
+    <div className="credits">
+        Desenvolvido com muito <i className='bx bxs-heart'></i> por Maju e Raphaela.
     </div>
 
 </footer>

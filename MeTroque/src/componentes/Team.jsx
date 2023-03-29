@@ -8,14 +8,15 @@ function Team() {
   return (
     
 
-
 <section id="team" className="team section-bg">
-            <div className="container" data-aos="fade-up">
+           
                 <div className="section-title">
-                  <h2>Team</h2>
+                  <h2>Serviços</h2>
                   <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
                 </div>
-                <div className="row">
+
+                
+                <div className="alinhar">
                   <div className="col-lg-6">
                       <div className="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
                         <div className="pic"><img src="assets/img/team/team-1.jpg" className="img-fluid" alt="" /></div>
@@ -27,6 +28,9 @@ function Team() {
                         </div>
                       </div>
                   </div>
+
+
+
                   <div className="col-lg-6 mt-4 mt-lg-0">
                       <div className="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="200">
                         <div className="pic"><img src="assets/img/team/team-2.jpg" className="img-fluid" alt="" /></div>
@@ -38,6 +42,9 @@ function Team() {
                         </div>
                       </div>
                   </div>
+
+
+
                   <div className="col-lg-6 mt-4">
                       <div className="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="300">
                         <div className="pic"><img src="assets/img/team/team-3.jpg" className="img-fluid" alt="" /></div>
@@ -49,6 +56,9 @@ function Team() {
                         </div>
                       </div>
                   </div>
+
+
+
                   <div className="col-lg-6 mt-4">
                       <div className="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="400">
                         <div className="pic"><img src="assets/img/team/team-4.jpg" className="img-fluid" alt="" /></div>
@@ -61,7 +71,7 @@ function Team() {
                       </div>
                   </div>
                 </div>
-            </div>
+        
           </section>
          
 
