@@ -113,7 +113,7 @@ body{
     background: #5ea15b;
 }
 .home-img img{
-    width: 150%;
+    width: 100%;
     padding-left: 150px;
 }
 @media (max-width:785px) {
@@ -154,7 +154,7 @@ body{
         padding: 100px 2%;
         flex-direction: column;
         text-align: center;
-        overflow: hidden;
+        overflow-y: auto;
         gap: 5rem;
     }
     .home .text-h4{
@@ -172,4 +172,3 @@ body{
         width: 100%;
     }
 }
-

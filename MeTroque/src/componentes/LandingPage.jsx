@@ -48,7 +48,7 @@ return (
                
             </div>
             <div class="home-img">
-                <img src="/juliana.png" alt="cereal-aleatório"/>
+                <img src="/juliana.png" alt="Juliana"/>
             </div>
 
   </section>
